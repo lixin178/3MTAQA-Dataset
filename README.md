@@ -18,4 +18,4 @@ LVFL, as a plug and play module, has good versatility and can be easily integrat
 
 ` python DAE+LVFL.py --log_info=DAE+LVFL --num_workers=8 --gpu=0 --train_batch_size=4 --test_batch_size=20 --num_epochs=100 `
 
-If you use the 3MTAQA dataset, please cite this paper: A Language-Guided Visual Feature Learning Method for Multimodal Teacher Action Quality Assessment.
+If you use the 3MTAQA dataset, please cite this paper: A Language-Guided Visual Feature Learning Strategy for Multimodal Teacher Action Quality Assessment.
